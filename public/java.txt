@@ -1,0 +1,10 @@
+var 
+let 
+const
+/ გაყოფა
++ მიმატება 
+- გამოკლება 
+* გამრავლება
+% ნაშთიანი გაყოფა
+console.error (error)
+console.warning (Warning)
